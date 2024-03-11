@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    overflow-x: hidden;
+}
+@media screen and (max-width:325px) {
+    .containers{
+        height: 100vh;
+        margin-top: 14vh;
+    }
+    .contentWrapper{
+        padding: 14vh 0vh;
+    }
+}

@@ -1,0 +1,7 @@
+export { default as Header } from "@/app/components/Header/Header"
+export { default as Hero } from  "@/app/components/HomeComponent/index"
+export { default as Footer } from "@/app/components/Footer"
+export { default as Intro } from "@/app/components/HomeComponent/Intro"
+export { default as Services } from "@/app/components/HomeComponent/Services"
+export { default as WhoWeAre } from "@/app/components/HomeComponent/WhoWeAre"
+export { default as AppShowcase } from "@/app/components/HomeComponent/AppShowcase"
